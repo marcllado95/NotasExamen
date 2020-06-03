@@ -1,0 +1,13 @@
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\obj\Debug\netcoreapp3.1\NotasAlumnos.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\obj\Debug\netcoreapp3.1\NotasAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\obj\Debug\netcoreapp3.1\NotasAlumnos.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\obj\Debug\netcoreapp3.1\NotasAlumnos.AssemblyInfo.cs
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\bin\Debug\netcoreapp3.1\NotasAlumnos.exe
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\bin\Debug\netcoreapp3.1\NotasAlumnos.deps.json
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\bin\Debug\netcoreapp3.1\NotasAlumnos.runtimeconfig.json
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\bin\Debug\netcoreapp3.1\NotasAlumnos.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\bin\Debug\netcoreapp3.1\NotasAlumnos.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\bin\Debug\netcoreapp3.1\NotasAlumnos.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\obj\Debug\netcoreapp3.1\NotasAlumnos.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\obj\Debug\netcoreapp3.1\NotasAlumnos.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\NotasAlumnos\NotasAlumnos\obj\Debug\netcoreapp3.1\NotasAlumnos.genruntimeconfig.cache
